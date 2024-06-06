@@ -18,7 +18,7 @@
    </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 <a name="table">Tabla de contenido</a>
 
 1. 🧙‍♂️ [Introducción](#introduction)
 2. 🪄 [Características](#features)
@@ -59,7 +59,8 @@ Asegúrate de tener lo siguiente instalado en tu ordenador:
 **Clonar el repositorio**
 
 ```bash
-git clone https://github.com/luidev0/yatai-website.git
+git clone https://github.com/luidev0/proyectos-frontend.git
+cd proyectos-frontend
 cd yatai-website
 ```
 
