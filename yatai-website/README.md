@@ -98,10 +98,6 @@ Abre el enlace [http://localhost:5173](http://localhost:5173) para poder ver el 
 
 - Email - **lparodi.pe@gmail.com**
 
-- GitHub - **https://github.com/luidev0**
-
 - LinkedIn - **https://www.linkedin.com/in/luidevpe/**
 
 - Website - **https://luidev.netlify.app**
-
-- Discord - **luidev**

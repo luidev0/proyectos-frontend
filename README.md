@@ -37,10 +37,6 @@ Aquí listaré los proyectos que vaya desarrollando. Podrás ver la página en v
 
 - Email - **lparodi.pe@gmail.com**
 
-- GitHub - **https://github.com/luidev0**
-
 - LinkedIn - **https://www.linkedin.com/in/luidevpe/**
 
 - Website - **https://luidev.netlify.app**
-
-- Discord - **luidev**
