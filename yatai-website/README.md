@@ -97,7 +97,5 @@ Abre el enlace [http://localhost:5173](http://localhost:5173) para poder ver el 
 **Aqui puedes contactarme para participar en proyectos:**
 
 - Email - **lparodi.pe@gmail.com**
-
 - LinkedIn - **https://www.linkedin.com/in/luidevpe/**
-
 - Website - **https://luidev.netlify.app**

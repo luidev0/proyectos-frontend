@@ -29,14 +29,13 @@ Proyectos de programación y diseño web hechos para clientes, portafolio person
 Aquí listaré los proyectos que vaya desarrollando. Podrás ver la página en vivo en _Ver Live_:
 
 - [✅] **Proyecto 01: Yatai - Restaurante de Comida Japonesa** | **[Ver Live](https://yataipe.netlify.app/)**
-- [⌛] **Proyecto 02: En progreso...**
+- [✅] **Proyecto 02: EscaPE - App de navegación para campistas** | **[Ver Live](https://escape-app.netlify.app/)**
+- [⌛] **En proceso...**
 
 ## <a name="contact">📜 Contáctame</a>
 
 **Aqui puedes contactarme para participar en proyectos:**
 
 - Email - **lparodi.pe@gmail.com**
-
 - LinkedIn - **https://www.linkedin.com/in/luidevpe/**
-
 - Website - **https://luidev.netlify.app**
