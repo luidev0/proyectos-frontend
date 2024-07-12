@@ -29,7 +29,7 @@ Proyectos de programación y diseño web hechos para clientes, portafolio person
 Aquí listaré los proyectos que vaya desarrollando. Podrás ver la página en vivo en _Ver Live_:
 
 - [✅] **Proyecto 01: Yatai - Restaurante de Comida Japonesa** | **[Ver Live](https://yataipe.netlify.app/)**
-- [✅] **Proyecto 02: EscaPE - App de navegación para campistas** | **[Ver Live](https://escape-app.netlify.app/)**
+- [✅] **Proyecto 02: EscaPE - App de navegación para campistas** | **[Ver Live](https://escape-pe.netlify.app/)**
 - [⌛] **En proceso...**
 
 ## <a name="contact">📜 Contáctame</a>

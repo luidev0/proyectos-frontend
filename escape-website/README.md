@@ -86,7 +86,7 @@ Abre el enlace [http://localhost:3000 ](http://localhost:5173) para poder ver el
 
 ### Página en vivo
 
-<a href="https://escape.netlify.app" target="_blank"><img src="https://img.shields.io/badge/EscaPE-black?style=for-the-badge&logo=devdotto&logoColor=white&color=%23252525&link=https%3A%2F%2Fescape-app.netlify.app%2F" /></a>
+<a href="https://escape.netlify.app" target="_blank"><img src="https://img.shields.io/badge/EscaPE-black?style=for-the-badge&logo=devdotto&logoColor=white&color=%23252525&link=https%3A%2F%2Fescape-pe.netlify.app%2F" /></a>
 
 ### Toma de captura de pantalla
 
